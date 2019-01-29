@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="0/org.eclipse.jst.ws.wsImpl.java">
+		<item value="com.javax.services.StudentServiceImplementation"/>
+		<item value="com.javax.services.StudentService"/>
+		<item value="com.javax.services.PersonServiceImplementation"/>
+		<item value="com.SoapClass"/>
+		<item value="fkrec.hr.web.service.FkrecService"/>
+	</list>
+</section>

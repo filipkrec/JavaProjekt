@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+F:\Users\Student\eclipse-workspace-ee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\366078440.index
+\SOAPProjectClient\src
+F:\Users\Student\eclipse-workspace-ee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2765829412.index
+\SOAPProjectClient\src
+F:\Users\Student\eclipse-workspace-ee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1958671084.index
+\SOAPProjectClient\src
+F:\Users\Student\eclipse-workspace-ee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1201457893.index
+\JavaProjectClient\src
+F:\Users\Student\eclipse-workspace-ee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3139365359.index
+\JavaProjektClient\src

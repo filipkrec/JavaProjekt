@@ -1,0 +1,9 @@
+127.0.0.1 - - [29/Jan/2019:21:00:15 +0100] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [29/Jan/2019:21:00:16 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/Result.jsp HTTP/1.1" 200 118
+127.0.0.1 - - [29/Jan/2019:21:00:17 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/Method.jsp HTTP/1.1" 200 695
+127.0.0.1 - - [29/Jan/2019:21:00:17 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/Input.jsp HTTP/1.1" 200 127
+127.0.0.1 - - [29/Jan/2019:21:00:17 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/TestClient.jsp HTTP/1.1" 200 586
+0:0:0:0:0:0:0:1 - - [29/Jan/2019:21:00:18 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/TestClient.jsp?endpoint=http://localhost:13007/JavaProjekt/services/StudentServiceImplementation HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [29/Jan/2019:21:00:18 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/Method.jsp HTTP/1.1" 200 695
+0:0:0:0:0:0:0:1 - - [29/Jan/2019:21:00:18 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/Input.jsp HTTP/1.1" 200 127
+0:0:0:0:0:0:0:1 - - [29/Jan/2019:21:00:18 +0100] "GET /JavaProjektClient/sampleStudentServiceImplementationProxy/Result.jsp?endpoint=http://localhost:13007/JavaProjekt/services/StudentServiceImplementation& HTTP/1.1" 200 118

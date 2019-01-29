@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/com/javax/beans/Student.java=UTF-8
+encoding//src/com/javax/services/StudentServiceImplementation.java=UTF-8
+encoding//src/com/javax/services/StudentServiceImplementationSoapBindingStub.java=UTF-8
